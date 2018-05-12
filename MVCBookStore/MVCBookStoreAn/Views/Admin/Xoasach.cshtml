@@ -1,0 +1,92 @@
+﻿@model MVCBookStoreAn.Models.SACH
+
+@{
+    ViewBag.Title = "Xoasach";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>XÁC NHẬN THÔNG TIN SÁCH CẦN XÓA</h2>
+
+<div>
+    <h2 style="text-align:center">XÁC NHẬN THÔNG TIN SÁCH CẦN XÓA</h2>
+
+    <h3 style="text-align:center">Bạn quyết định xóa quyển sách này?</h3>
+    <hr />
+    <dl class="dl-horizontal">
+        @*Tên sách*@
+        <dt>
+            Tên sách:
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Tensach)
+        </dd>
+
+        @*Giá bán*@
+        <dt>
+            Giá bán:
+        </dt>
+        <dd>
+            @String.Format("{0:0,0}", Model.Dongia) VND
+        </dd>
+
+        @*Mô tả*@
+        <dt>
+            Mô tả:
+        </dt>
+        <dd style="width:600px;text-align:justify">
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+
+        @*Ảnh bìa*@
+        <dt>
+            Ảnh bìa:
+        </dt>
+        <dd>
+            <img src="@Url.Content("~/images/"+ Model.Hinhminhhoa)" width="120px" />
+        </dd>
+
+        @*Ngày cập nhật*@
+        <dt>
+            Ngày cập nhật:
+        </dt>
+        <dd>
+            @String.Format("{0:dd/MM/yyyy}", Model.Ngaycapnhat)
+        </dd>
+
+        @*Số lượng tồn*@
+        <dt>
+            Số lượng tồn:
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Soluongban)
+        </dd>
+
+        @*Chủ đề*@
+        <dt>
+            Chủ đề:
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CHUDE.TenChuDe)
+        </dd>
+
+        @*Nhà xuất bản*@
+        <dt>
+            Nhà xuất bản:
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NHAXUATBAN.TenNXB)
+        </dd>
+
+        <dd>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-actions no-color">
+                    <input type="submit" value="Xóa" class="btn btn-default" /> |
+                    <button>@Html.ActionLink("TRỞ VỀ", "Sach")</button>
+                </div>
+            }
+        </dd>
+    </dl>
+</div>

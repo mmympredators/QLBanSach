@@ -1,0 +1,90 @@
+﻿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Book Store Manager</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+    <!--[if lte IE 6]><link rel="stylesheet" href="~/ie6.css" type="text/css" media="all" /><![endif]-->
+    <script src="~/Scripts/jquery.jcarousel.pack.js"></script>
+    <script src="~/Scripts/jquery-1.4.1.min.js"></script>
+    <script src="~/Scripts/jquery-func.js"></script>
+    <script src="~/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script>tinymce.init({ selector: 'textarea' });</script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Trang chủ", "Index", "Admin", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Quản lý chủ đề", "Sach", "Admin")</li>
+                    <li>@Html.ActionLink("Quản lý NXB", "Sach", "Admin")</li>
+                    <li>@Html.ActionLink("Quản lý sách", "Sach", "Admin")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        @RenderBody()
+    </div>
+
+
+    <!-- Side Full -->
+    <div class="side-full">
+        <!-- More Products -->
+        @*<div class="more-products">
+                <div class="more-products-holder">
+                    <ul>
+                        <li><a href="#"><img src="~/images/small1.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small2.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small3.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small4.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small5.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small6.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small7.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small1.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small2.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small3.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small4.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small5.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small6.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small7.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small1.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small2.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small3.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small4.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small5.jpg" alt="" /></a></li>
+                        <li><a href="#"><img src="~/images/small6.jpg" alt="" /></a></li>
+                        <li class="last"><a href="#"><img src="~/images/small7.jpg" alt="" /></a></li>
+                    </ul>
+                </div>
+                <div class="more-nav"> <a href="#" class="prev">previous</a> <a href="#" class="next">next</a> </div>
+            </div>*@
+    </div>
+    <!-- End Side Full -->
+    <!-- Shell -->
+    <div class="shell">
+        <!-- Footer -->
+        <div id="footer">
+            @*<p class="left"> <a href="#">Home</a> <span>|</span> <a href="#">Support</a> <span>|</span> <a href="#">My Account</a> <span>|</span> <a href="#">The Store</a> <span>|</span> <a href="#">Contact</a> </p>*@
+        </div>
+        <!-- End Footer -->
+    </div>
+    <!-- End Shell -->
+</body>
+</html>
+
+
+

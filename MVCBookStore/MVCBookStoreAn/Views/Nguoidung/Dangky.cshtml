@@ -1,0 +1,102 @@
+﻿@model MVCBookStoreAn.Models.KHACHHANG
+@{
+    ViewBag.Title = "Dangky";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<h2 style="text-align:center">Đăng kí thành viên</h2>
+<table align="center">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        @*Họ tên KH*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Họ tên:
+            </td>
+            <td>
+                @Html.TextBox("HotenKH")
+                @ViewData["Loi1"]
+            </td>
+        </tr>
+        @*Tên đăng nhập*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Tên đăng nhập:
+            </td>
+            <td>
+                @Html.TextBox("TenDN")
+                @ViewData["Loi2"]
+            </td>
+        </tr>
+        @*Mật khẩu*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Nhập mật khẩu:
+            </td>
+            <td>
+                @Html.Password("Matkhau")
+                @ViewData["Loi3"]
+            </td>
+        </tr>
+        @*Nhập lại mật khẩu*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Nhập lại mật khẩu:
+            </td>
+            <td>
+                @Html.Password("Matkhaunhaplai")
+                @ViewData["Loi4"]
+            </td>
+        </tr>
+
+        @*Ngày sinh*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Ngày sinh:
+            </td>
+            <td>
+                <div class="editor-field">
+                    <input type="date" name="Ngaysinh" />
+                </div>
+            </td>
+        </tr>
+        @*Email*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Email:
+            </td>
+            <td>
+                @Html.TextBox("Email")
+                @ViewData["Loi5"]
+            </td>
+        </tr>
+        @*Đỉa chỉ KH*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Địa chỉ KH:
+            </td>
+            <td>
+                @Html.TextBox("Diachi")
+            </td>
+        </tr>
+        @*Điện thoại*@
+        <tr style="height:40px">
+            <td style="text-align:right">
+                Điện thoại:
+            </td>
+            <td>
+                @Html.TextBox("Dienthoai")
+                @ViewData["Loi6"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td></td>
+            <td>
+                <input type="submit" value="Đăng Ký" /> |
+                <button>
+                    @Html.ActionLink("Quay về", "Index","BookStore")
+                </button>
+            </td>
+        </tr>
+    }
+</table>

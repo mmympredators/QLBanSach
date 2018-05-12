@@ -1,0 +1,44 @@
+﻿<style type="text/css">
+    #Datmua a {
+        clear: both;
+        color: white;
+        display: block;
+        padding-top: 10px;
+        background-color: red;
+        width: 120px;
+        height: 35px;
+        float: right;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        #Datmua a:hover {
+            background-color: gray;
+            color: red;
+        }
+</style>
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h1 style="text-align:center">Thông tin chi tiết sách</h1>
+<div>
+    <div style="width:40%; float:left; border-left: dotted 1px; border-color:azure">
+        <img src="~/images/@Model.Hinhminhhoa" style="width:250px ; height:350px"/>
+    </div>
+    <div style="width:60%; float:left; padding:10px">
+        <h4 style="font-weight:bold; color:red">Tên sách: @Model.Tensach </h4>
+        <p style="text-align:justify"><span style="font-weight:bold"> Mô tả: </span>@Model.Mota </p>
+        <p style="text-align:justify"><span style="font-weight:bold"> Đơn vị tính: </span>@Model.Donvitinh </p>
+        <p style="text-align:justify"><span style="font-weight:bold"> Tên chủ đề: </span>@Model.CHUDE.TenChuDe </p>
+        <p style="text-align:justify"><span style="font-weight:bold"> Nhà xuất bản: </span>@Model.NHAXUATBAN.TenNXB </p>
+        <p style="font-weight:bold"> Giá bán: <span style="color:red; font-size:16pt "> @String.Format("{0:0,0}", Model.Dongia) VNĐ</span></p>
+        <div id="Datmua">
+            <a href="@Url.Action("ThemGioHang", "GioHang", new { @iMasach = @Model.Masach, @strURL=Request.Url.ToString() }) " class="list-group-item">
+                Đặt mua
+            </a>
+        </div>
+    </div>
+</div>

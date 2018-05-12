@@ -1,0 +1,46 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <meta charset="UTF-8" />
+    <link href="~/Content/assets/style.css" rel="stylesheet" />
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <form>
+            <h1>Employer Log in</h1>
+            <h4 style="color:yellow; text-align:center">@ViewBag.ThongBao</h4>
+            <div class="inset">
+                <p>
+                    <label for="email">EMAIL ADDRESS</label>
+                    <input type="text" name="username" id="email">
+                    @ViewData["Loi1"]
+                </p>
+                <p>
+                    <label for="password">PASSWORD</label>
+                    <input type="password" name="password" id="password">
+                    @ViewData["Loi2"]
+                </p>
+                <p>
+                    <input type="checkbox" name="remember" id="remember">
+                    <label for="remember">Remember me for 14 days</label>
+                </p>
+            </div>
+            <p class="p-container">
+                <span>Forgot password ?</span>
+                <input type="submit" name="go" id="go" value="Log in">
+            </p>
+        </form>
+        <div>
+        </div>
+    }
+</body>
+</html>

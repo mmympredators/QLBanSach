@@ -1,0 +1,274 @@
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.pdb
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\Antlr3.Runtime.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\Microsoft.Web.Infrastructure.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Optimization.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Providers.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\WebGrease.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.xml
+D:\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csprojResolveAssemblyReference.cache
+D:\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.dll
+D:\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll.config
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Antlr3.Runtime.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Optimization.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Providers.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\WebGrease.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csprojResolveAssemblyReference.cache
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CoreCompileInputs.cache
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CopyComplete
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\Tuần 2\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll.config
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Antlr3.Runtime.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Optimization.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Providers.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\WebGrease.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CoreCompileInputs.cache
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CopyComplete
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll.config
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\Antlr3.Runtime.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\Microsoft.Web.Infrastructure.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Optimization.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Providers.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\WebGrease.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.xml
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CoreCompileInputs.cache
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CopyComplete
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.dll
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.pdb
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.pdb
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Antlr3.Runtime.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Optimization.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Providers.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\WebGrease.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csprojResolveAssemblyReference.cache
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csprojResolveAssemblyReference.cache
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.pdb
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Antlr3.Runtime.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Optimization.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Providers.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\WebGrease.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csprojResolveAssemblyReference.cache
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.dll
+D:\Downloads\MVCBookStoreAn\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.pdb
+D:\Bài Tập Công Nghê Thông Tin\Năm 3\HKII\Công nghệ phần mềm nâng cao\Thực hành\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll.config
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\MVCBookStoreAn.pdb
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Providers.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\WebGrease.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Net.Http.WebRequest.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.csproj.CopyComplete
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.dll
+C:\Users\Admin\Downloads\MVCBookStoreAn\MVCBookStoreAn\obj\Debug\MVCBookStoreAn.pdb

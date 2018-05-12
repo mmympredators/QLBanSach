@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Book Store Manager</title>
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="css/shop-homepage.css" rel="stylesheet">
+    <link href="~/Content/css/shop-homepage.css" rel="stylesheet" />
+
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="@Url.Action("Index", "BookStore")" style="font-weight:bold; text-decoration: none;">
+                <img src="~/images/home.png" style="width:20px;height:20px" />  Trang chủ
+            </a>
+            @Html.Action("GiohangPartial", "Giohang")
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <img src="~/images/about-us.png" style="width:20px;height:20px" />  About
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <img src="~/images/support.png" style="width:20px;height:20px" />  Services
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <img src="~/images/phone (1).png" style="width:20px;height:20px" />  Contact
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="@Url.Action("DangNhap","Nguoidung")">
+                            <img src="~/images/login.png" style="width:20px;height:20px" /> Đăng nhập
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="@Url.Action("Dangky","Nguoidung")">
+                            <img src="~/images/plus-symbol-in-a-rounded-black-square.png" style="width:20px;height:20px" />  Đăng kí
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <h3 class="my-4" style="text-align:center">Tìm sách theo tên</h3>
+                <div class="list-group">
+                    <a>
+                        @using (Html.BeginForm("Index", "BookStore", FormMethod.Get, new { @class = "navbar-form navbar-right", role = "search", id = "search-form", onsubmit = "return empty();" }))
+                        {
+                            <p style="text-align:center">
+                                @Html.TextBox("SearchString")
+                            </p>
+                            <p style="text-align:center">
+                                <input type="submit" value="Tìm kiếm" style="background-color:chocolate"/>
+                            </p>
+                        }
+                    </a>
+                </div>
+                <h3 class="my-4" style="text-align:center">Chủ đề sách</h3>
+                <div class="list-group">
+                    @Html.Action("ChuDe", "BookStore")
+                </div>
+                <h3 class="my-4" style="text-align:center">Nhà xuất bản</h3>
+                <div class="list-group">
+                    @Html.Action("Nhaxuatban", "BookStore")
+                </div>
+            </div>
+            <!-- /.col-lg-3 -->
+            <div class="col-lg-9">
+                <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
+                </div>
+                <div class="row">
+                    <div>
+                        @RenderBody()
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.col-lg-9 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+        <div class="container">
+            <p class="m-0 text-center text-white">Copyright &copy;Nguyễn Sỹ Nguyên - 15DH110076</p>
+        </div>
+        <!-- /.container -->
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="~/Scripts/vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Scripts/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+</body>
+</html>
+

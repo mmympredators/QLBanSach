@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "SPTheoNXB";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h1 style="text-align:center">Sách theo nhà xuất bản</h1>
+<div class="row">
+    @foreach (var sach in Model)
+    {
+        <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+                <a href="@Url.Action("Details", "BookStore", new { id = sach.Masach })">
+                    @*<img alt="@sach.Tensach" src="~/images/@sach.Hinhminhhoa" style="width:200px; height:250px" />*@
+                    <img class="card-img-top" src="~/images/@sach.Hinhminhhoa" alt="" style="" width="200" height="400">
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">
+                        <a href="@Url.Action("Details", "BookStore",new { id = sach.Masach })">@sach.Tensach</a>
+                    </h4>
+                    <h5>@String.Format("{0:0,0}", sach.Dongia) VNĐ </h5>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+                </div>
+            </div>
+        </div>
+    }
+</div>
